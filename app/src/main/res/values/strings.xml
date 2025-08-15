@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Food menu</string>
+
+    <string name="about">ABOUT:</string>
+
+    <string name="menu1">Cheese cake</string>
+    <string name="menu2">Chicken Biryani</string>
+    <string name="menu3">Chicken Kabsa</string>
+    <string name="menu4">Chilli Crab</string>
+    <string name="menu5">Falafal</string>
+    <string name="menu6">Fish fry</string>
+    <string name="menu7">French fry</string>
+    <string name="menu8">Grill</string>
+    <string name="menu9">Noodles</string>
+    <string name="menu10">Parotta</string>
+    <string name="menu11">Prawn fry</string>
+    <string name="menu12">Tandoori</string>
+    <string name="menu13">Mandi</string>
+
+    <string name="rate1">₹90</string>
+    <string name="rate2">₹160</string>
+    <string name="rate3">₹240</string>
+    <string name="rate4">₹630</string>
+    <string name="rate5">₹210</string>
+    <string name="rate6">₹170</string>
+    <string name="rate7">₹70</string>
+    <string name="rate8">₹310</string>
+    <string name="rate9">₹110</string>
+    <string name="rate10">₹30</string>
+    <string name="rate11">₹400</string>
+    <string name="rate12">₹360</string>
+    <string name="rate13">₹320</string>
+
+    <string name="desc1">A rich, creamy dessert made from cream cheese, sugar, and a biscuit or pastry crust.</string>
+    <string name="desc2">A fragrant South Asian rice dish cooked with marinated chicken, spices, and herbs.</string>
+    <string name="desc3">A flavorful Middle Eastern rice dish spiced with cinnamon, cloves, cardamom, and served with chicken.</string>
+    <string name="desc4">A spicy, tangy seafood dish of crab cooked in a savory chili-tomato sauce.</string>
+    <string name="desc5">Deep-fried balls or patties made from ground chickpeas, herbs, and spices.</string>
+    <string name="desc6">Fresh fish coated in spices and shallow or deep-fried until crispy.</string>
+    <string name="desc7">Thin, deep-fried potato strips seasoned with salt.</string>
+    <string name="desc8">Meat, seafood, or vegetables cooked over an open flame or hot surface for a smoky flavor.</string>
+    <string name="desc9">Long, thin dough strands boiled and served in stir-fries, soups, or sauces.</string>
+    <string name="desc10">A flaky, layered flatbread popular in South India and Sri Lanka.</string>
+    <string name="desc11">Prawns seasoned with spices and pan-fried or deep-fried until golden.</string>
+    <string name="desc12">Meat marinated in yogurt and spices, cooked in a traditional clay oven (tandoor).</string>
+    <string name="desc13">An aromatic Yemeni rice dish with slow-cooked meat and Middle Eastern spices.</string>
+    <!-- <string name="desc"></string> -->
+
+</resources>
